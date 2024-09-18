@@ -1,7 +1,7 @@
 
 # Bienvenue sur mon site
 
-## Navigation
+## Sommaire
 - [Accueil](index.md)
 - [Clans](clans.md)
 - [Personnages](personnages.md)
