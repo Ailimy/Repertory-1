@@ -15,12 +15,6 @@ title: Accueil
 </nav>
 
 <main>
-    <h2>Sommaire</h2>
-    <ul>
-        <li><a href="index.md">Accueil</a></li>
-        <li><a href="histoires.md">Histoires</a></li>
-        <li><a href="membres.md">Membres</a></li>
-    </ul>
     <p>Contenu principal de la page d'accueil.</p>
 </main>
 
