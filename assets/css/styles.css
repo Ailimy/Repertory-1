@@ -1,0 +1,11 @@
+/* Exemple de CSS pour une barre de navigation */
+.navbar {
+    text-align: left;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+.navbar a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #007bff;
+}
