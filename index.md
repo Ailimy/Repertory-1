@@ -3,12 +3,27 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue sur mon site
+<header>
+    <h1>Bienvenue sur mon site</h1>
+    <img src="/assets/images/header-image.jpg" alt="Image d'en-tête" class="header-image">
+</header>
 
-## Sommaire
-- [Accueil](index.md)
-- [Histoires](histoires.md)
-- [Membres](membres.md)
-  
-Contenu principal de la page d'accueil.
-<!-- Navbar -->
+<nav class="navbar">
+    <a href="index.md">Accueil</a>
+    <a href="histoires.md">Histoires</a>
+    <a href="membres.md">Membres</a>
+</nav>
+
+<main>
+    <h2>Sommaire</h2>
+    <ul>
+        <li><a href="index.md">Accueil</a></li>
+        <li><a href="histoires.md">Histoires</a></li>
+        <li><a href="membres.md">Membres</a></li>
+    </ul>
+    <p>Contenu principal de la page d'accueil.</p>
+</main>
+
+<footer>
+    <p>&copy; 2024 Mon Site Web. Tous droits réservés.</p>
+</footer>
