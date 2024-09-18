@@ -7,8 +7,8 @@ title: Accueil
 
 ## Sommaire
 - [Accueil](index.md)
-- [Histoires](clans.md)
-- [Membres](personnages.md)
+- [Histoires](histoires.md)
+- [Membres](membres.md)
   
 Contenu principal de la page d'accueil.
 <!-- Navbar -->
