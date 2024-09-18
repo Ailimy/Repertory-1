@@ -1,19 +1,10 @@
-# This is the title
 
-## This is a subtitle
+# Bienvenue sur mon site
 
-### Trois hashtags
+## Navigation
+- [Accueil](index.md)
+- [Clans](clans.md)
+- [Personnages](personnages.md)
 
-- 1
-- 2
-- 3
-- 4
-- 5
+Contenu principal de la page d'accueil.
 
-**Texte en gras** et __Texte en gras__
-
-*Texte en italique*  et _Texte en italique_
-
-~~text that has been struckthrough~~
-
-[ Cliquez ici pour accéder au lien ](https://ent.univ-brest.fr/expanded)
