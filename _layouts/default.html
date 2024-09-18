@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <a href="/faq.md">FAQ</a>
+        <a href="/about.md">À propos</a>
+        <a href="/charter.md">Charte</a>
+    </div>
+    <div class="content">
+        {{ content }}
+    </div>
+</body>
+</html>
