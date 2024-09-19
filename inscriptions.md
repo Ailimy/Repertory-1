@@ -19,7 +19,7 @@ Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propre
 
 ## Formulaire d'inscription
 
-<form action="/submit_registration" method="post">
+<form action="https://formspree.io/f/xanwgqnz" method="post">
     <label for="username">Nom d'utilisateur :</label>
     <input type="text" id="username" name="username" required>
 
