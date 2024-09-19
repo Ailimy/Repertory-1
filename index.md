@@ -20,6 +20,17 @@ title: Accueil
 
 Contenu principal de la page d'accueil.
 
+# Connexion
+
+Connectez-vous pour accéder aux fonctionnalités du site.
+
+- **Nom d'utilisateur** :
+- **Mot de passe** :
+
+[Se connecter](#) <!-- Lien vers la fonctionnalité de connexion -->
+
+Si vous n'avez pas encore de compte, [inscrivez-vous ici](inscriptions.md)
+
 <footer>
     <p>&copy; 2024 Mon Site Web. Tous droits réservés.</p>
 </footer>
