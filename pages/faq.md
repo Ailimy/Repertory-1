@@ -31,7 +31,7 @@ Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écritur
 
 ---
 
- ## Le site est-il gratuit ?
+## Le site est-il gratuit ?
 - Oui, l'inscription et l'utilisation de base du site sont entièrement gratuites. Cependant, nous proposons des options premium pour ceux qui souhaitent soutenir la plateforme ou bénéficier de fonctionnalités supplémentaires.
 
 ---
