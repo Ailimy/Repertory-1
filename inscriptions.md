@@ -34,7 +34,7 @@ Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propre
 
     <label>
         <input type="checkbox" name="terms" required>
-        J'accepte les <a href="conditions-generales.md" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="pages/charte.md" target="_blank">Charte</a>.
+        J'accepte les <a href="conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="pages/charte.md" target="_blank">Charte</a>.
     </label>
 
     <button type="submit">S'inscrire</button>
