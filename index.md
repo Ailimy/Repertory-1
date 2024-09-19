@@ -12,9 +12,13 @@
 - [À propos](pages/about.md)
 - [Charte](pages/charte.md)
 
+---
+
 ## Contenu Principal
 
 Contenu principal de la page d'accueil.
+
+---
 
 ## Connexion
 
