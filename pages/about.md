@@ -17,7 +17,7 @@ Notre mission est simple : fournir un espace littéraire convivial et respectueu
  
 ## Une Communauté d’Entraide
 
-Le Scriptorium ne se limite pas à la simple publication d’histoires. Notre objectif est de créer une communauté d’entraide et de partage, où chaque membre peut progresser et trouver l’inspiration. Avant de rejoindre l’aventure, nous vous invitons à lire notre [Charte](pages/charte.md) et nos [Conditions Générales d’Utilisation](conditions-generales.md), afin de garantir une expérience agréable pour tous.
+Le Scriptorium ne se limite pas à la simple publication d’histoires. Notre objectif est de créer une communauté d’entraide et de partage, où chaque membre peut progresser et trouver l’inspiration. Avant de rejoindre l’aventure, nous vous invitons à lire notre [Charte](pages/charte.html) et nos [Conditions Générales d’Utilisation](conditions-generales.html), afin de garantir une expérience agréable pour tous.
 
 ---
 
