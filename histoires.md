@@ -1,3 +1,8 @@
+---
+layout: default
+title: Histoires
+---
+
 Découvrez des récits captivants et plongez dans des univers littéraires variés sur [Nom du site].
 
 Sur cette page, vous pouvez explorer une vaste collection d’histoires publiées par notre communauté. Qu'il s'agisse de romans épiques, de nouvelles intrigantes, de poèmes émouvants ou de fanfictions passionnantes, chaque œuvre est le reflet de la créativité et de l'imagination de nos membres.
