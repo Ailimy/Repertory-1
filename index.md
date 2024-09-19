@@ -5,7 +5,7 @@ title: Accueil
 
 # Bienvenue sur mon site
 
-![Texte alternatif](assets/images/header-image.jpg)
+![Texte alternatif](assets/files/header-image.jpg)
 
 ## Sommaire
 - [Accueil](index.md)
