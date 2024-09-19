@@ -12,7 +12,7 @@ title: Accueil
 - [Histoires](histoires.md)
 - [Membres](membres.md)
   
-Contenu principal de la page d'accueil.
+
 
 
 
