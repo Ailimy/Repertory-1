@@ -3,7 +3,7 @@
 
 ## Puis-je publier plusieurs types d’écrits ?
 - Oui ! Vous pouvez publier des romans, des nouvelles, de la poésie, ou tout autre type d'écrit. Assurez-vous simplement de respecter les règles de la charte.
-
+ 
 ## Est-ce que mes œuvres restent ma propriété ?
 - Absolument. Vous êtes et restez l’unique propriétaire de vos créations. Nous n’avons aucun droit sur vos œuvres et vous pouvez les retirer du site à tout moment.
 
