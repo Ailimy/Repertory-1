@@ -1,8 +1,3 @@
----
-layout: default
-title: À propos
----
-
 # À propos
 
 Bienvenue sur **Le Scriptorium**, une plateforme dédiée à la créativité et à la passion pour l’écriture. Nous offrons un espace libre et gratuit pour tous ceux qui souhaitent partager leurs œuvres, qu'il s'agisse de récits originaux, de fanfictions autorisées, de poèmes ou d’essais. Que vous soyez un auteur débutant ou expérimenté, Le Scriptorium vous permet de publier vos histoires, de recevoir des retours constructifs, et de découvrir des œuvres originales de membres de notre communauté.
