@@ -7,9 +7,9 @@ title: Membres
 
 Bienvenue sur **Le Scriptorium**, une plateforme où se rencontrent lecteurs passionnés et écrivains talentueux. Notre page des **membres** est le véritable cœur de cette communauté littéraire, un espace où chacun peut échanger, découvrir et contribuer.
 
----
-
 ## Que pouvez-vous faire ici ?
+
+---
 
 ### 🔍 Explorer les profils des membres
 Découvrez les **auteurs derrière les histoires** que vous aimez ! Consultez leurs profils, explorez leurs œuvres et contributions à la communauté. Vous pouvez également **suivre vos auteurs préférés** pour être informé de leurs nouvelles publications et interagir avec eux.
