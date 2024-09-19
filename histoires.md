@@ -37,8 +37,12 @@ Avant de publier, assurez-vous de respecter les **directives de la charte** afin
 
 ---
 
-## Rejoignez l'aventure !
 
-Commencez à explorer et laissez-vous emporter par les histoires passionnantes de nos talentueux membres. **Bonne lecture !**
-
----
+{% for story in site.stories %}
+  ### [{{ story.title }}]({{ story.url }})
+  - **Auteur** : {{ story.author }}
+  - **Résumé** : {{ story.summary }}
+  - **Genres** : {{ story.genres }}
+  - **Date de publication** : {{ story.date }}
+  ---
+{% endfor %}
