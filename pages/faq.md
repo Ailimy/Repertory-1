@@ -1,3 +1,9 @@
+---
+layout: default
+title: FAQ
+---
+
+
 ## Comment créer un compte ?
 - Pour créer un compte, cliquez sur "S'inscrire" en haut à droite de la page d'accueil et suivez les instructions. Une fois inscrit, vous pouvez commencer à publier vos œuvres et interagir avec la communauté. 
 
