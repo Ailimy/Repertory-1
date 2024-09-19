@@ -34,7 +34,7 @@ Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propre
 
     <label>
         <input type="checkbox" name="terms" required>
-        J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/charte.html" target="_blank">Charte</a>.
+        J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/pages/charte.html" target="_blank">Charte</a>.
     </label>
 
     <button type="submit">S'inscrire</button>
