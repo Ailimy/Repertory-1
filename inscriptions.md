@@ -7,6 +7,8 @@ title: Inscriptions
 
 L'inscription est simple et rapide. En tant que membre, vous aurez accès à toutes les fonctionnalités du site, y compris la possibilité de publier vos œuvres, de commenter celles des autres, et de participer à des discussions enrichissantes.
 
+---
+
 ## Comment vous inscrire ?
 
 1. **Remplir le formulaire d'inscription** : Fournissez les informations demandées ci-dessous.
@@ -16,6 +18,8 @@ L'inscription est simple et rapide. En tant que membre, vous aurez accès à tou
 3. **Confirmer votre inscription** : Vous recevrez un e-mail de confirmation avec un lien pour activer votre compte. Cliquez sur ce lien pour terminer votre inscription.
 
 Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propres écrits, et participer activement à la vie de notre communauté littéraire. Nous sommes impatients de vous accueillir parmi nous !
+
+---
 
 ## Formulaire d'inscription
 
@@ -39,3 +43,4 @@ Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propre
 
     <button type="submit">S'inscrire</button>
 </form>
+---
