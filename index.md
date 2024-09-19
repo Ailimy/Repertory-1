@@ -8,9 +8,9 @@
 - [Histoires](histoires.md)
 - [Membres](membres.md)
 - [Inscriptions](inscriptions.md)
-- [FAQ](faq.md)
-- [À propos](about.md)
-- [Charte](charte.md)
+- [FAQ](pages/faq.md)
+- [À propos](pages/about.md)
+- [Charte](pages/charte.md)
 
 ## Contenu Principal
 
