@@ -20,14 +20,19 @@ title: Accueil
 
 Contenu principal de la page d'accueil.
 
-# Connexion
+## Connexion
 
 Connectez-vous pour accéder aux fonctionnalités du site.
 
-- **Nom d'utilisateur** :
-- **Mot de passe** :
+<form action="https://formspree.io/f/xanwgqnz" method="post">
+    <label for="login-username">Nom d'utilisateur :</label>
+    <input type="text" id="login-username" name="login-username" required>
 
-[Se connecter](#) <!-- Lien vers la fonctionnalité de connexion -->
+    <label for="login-password">Mot de passe :</label>
+    <input type="password" id="login-password" name="login-password" required>
+
+    <button type="submit">Se connecter</button>
+</form>
 
 Si vous n'avez pas encore de compte, [inscrivez-vous ici](inscriptions.md)
 
