@@ -3,7 +3,7 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue sur mon site
+# Le Scriptorium
 
 ![Texte alternatif](assets/files/header-image.jpg)
 
