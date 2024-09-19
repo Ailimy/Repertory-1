@@ -1,5 +1,5 @@
 ## Comment créer un compte ?
-- Pour créer un compte, cliquez sur "S'inscrire" en haut à droite de la page d'accueil et suivez les instructions. Une fois inscrit, vous pouvez commencer à publier vos œuvres et interagir avec la communauté.
+- Pour créer un compte, cliquez sur "S'inscrire" en haut à droite de la page d'accueil et suivez les instructions. Une fois inscrit, vous pouvez commencer à publier vos œuvres et interagir avec la communauté. 
 
 ## Puis-je publier plusieurs types d’écrits ?
 - Oui ! Vous pouvez publier des romans, des nouvelles, de la poésie, ou tout autre type d'écrit. Assurez-vous simplement de respecter les règles de la charte.
