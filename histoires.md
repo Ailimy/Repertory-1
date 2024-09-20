@@ -39,8 +39,6 @@ Avant de publier, assurez-vous de respecter les **directives de la charte** afin
 
 ## Histoires disponibles
 
-- [Titre de l'Histoire 1](nom-histoire-1/index.md)
+- [Titre de l'Histoire 1](histoires/nom-histoire-1)
   - Résumé rapide de l'histoire.
 
-- [Titre de l'Histoire 2](nom-histoire-2/index.md)
-  - Résumé rapide de l'histoire.
