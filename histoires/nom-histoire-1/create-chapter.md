@@ -39,3 +39,5 @@
 
   <input type="submit" value="Soumettre">
 </form>
+
+######NB : Ajouter "NONE" si vous ne souhaitez pas remplir l'entiérté des 10 chapitres.
