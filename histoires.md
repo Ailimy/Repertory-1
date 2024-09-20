@@ -37,12 +37,10 @@ Avant de publier, assurez-vous de respecter les **directives de la charte** afin
 
 ---
 
+## Histoires disponibles
 
-{% for story in site.stories %}
-  ### [{{ story.title }}]({{ story.url }})
-  - **Auteur** : {{ story.author }}
-  - **Résumé** : {{ story.summary }}
-  - **Genres** : {{ story.genres }}
-  - **Date de publication** : {{ story.date }}
-  ---
-{% endfor %}
+- [Titre de l'Histoire 1](nom-histoire-1/index.md)
+  - Résumé rapide de l'histoire.
+
+- [Titre de l'Histoire 2](nom-histoire-2/index.md)
+  - Résumé rapide de l'histoire.
