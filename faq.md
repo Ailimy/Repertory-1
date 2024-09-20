@@ -11,7 +11,7 @@ title: FAQ
 
 ---
 
-## Comment créer un compte ?
+## Comment puis-je m'inscrire ?
 - Pour vous inscrire, il vous suffit de cliquer sur [Inscriptions](inscriptions.md) trouvable sur la page d'accueil.
 
 
@@ -33,12 +33,18 @@ title: FAQ
 ---
 
 ## Comment puis-je ajouter des chapitres ?
-- Vous pouvez ajouter vos chapitres en cliquant sur [Cliquez ici pour créer un chapitre](create-chapter.md). Cepandant, il est nécessaire d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). Si vous publiez immédiatement vos chapitres, ils ne seront pas mis en ligne.
+- Vous pouvez ajouter vos chapitres en cliquant sur [Cliquez ici pour créer un chapitre](create-chapter.md). Cepandant, il est nécessaire de [s'inscrire](inscriptions.md) et d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). 
+Si vous publiez directement vos chapitres, ils ne seront pas mis en ligne.
 
 ---
 
 ## Combien de chapitres puis-je publier ?
 - Vous pouvez ajouter à maximum de 10 chapitres à la fois une fois votre histoire acceptée et votre premier chapitre mis en ligne par les modérateurs.
+
+---
+
+## Comment savoir si mon histoire a été acceptée ?
+- Vous recevrez un e-mail vous confirmant que votre histoire a bien été vérifiée. Une fois cet e-mail reçu, vous pourrez commencer à publier vos chapitres.
 
 ---
 
