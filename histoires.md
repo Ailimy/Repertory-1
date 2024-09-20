@@ -27,7 +27,7 @@ Avant de publier, assurez-vous de respecter les **directives de la charte** afin
 
 Une fois votre histoire soumise, celle-ci sera revue avant d'être ajoutée à la liste d'histoires du Scriptorium.
 
-## Qu'est-ce qui se passe si mon histoire n'est toujours pas publiée ?
+#### Qu'est-ce qui se passe si mon histoire n'est toujours pas publiée ?
 
 **Pas de panique !** Un long temps d'attente ne signifie pas forcément que votre histoire a été refusée. Nous faisons tout notre possible pour traiter les soumissions **le plus rapidement possible** et mettre à jour les publications au plus vite.
 
