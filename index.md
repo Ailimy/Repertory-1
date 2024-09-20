@@ -50,7 +50,3 @@ Connectez-vous pour accéder aux fonctionnalités du site.
 </form>
 
 Si vous n'avez pas encore de compte, [inscrivez-vous ici](inscriptions.md)
-
-<footer>
-    <p>&copy; 2024 Mon Site Web. Tous droits réservés.</p>
-</footer>
