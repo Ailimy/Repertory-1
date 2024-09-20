@@ -12,28 +12,27 @@ Bienvenue sur **Le Scriptorium**, où les récits prennent vie ! Découvrez une 
 ## Comment explorer les histoires ?
 
 ### 🔍 Parcourir les récits
-Utilisez notre **moteur de recherche** et nos **filtres** pour trouver des histoires selon vos préférences :
-- **Genres littéraires** : Science-fiction, fantasy, romance, etc.
-- **Auteur** : Retrouvez vos auteurs favoris ou découvrez-en de nouveaux.
-- **Popularité** : Consultez les œuvres les mieux notées ou les plus lues.
-  
-Vous pouvez également explorer les **dernières publications** ou parcourir les œuvres **à la une** sélectionnées par la communauté.
+Utilisez notre **moteur de recherche** pour trouver des histoires disponible sur Le Scriptorium :
 
 ---
 
-### 📖 Lire et commenter
-Chaque histoire est ouverte à la lecture et aux échanges. Après avoir dévoré un texte, n'hésitez pas à laisser un commentaire. Nous encourageons les **critiques constructives** pour soutenir les auteurs et les aider à progresser dans leur art.
-
----
 
 ### ✍️ Publier vos écrits
-Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous pouvez y déposer :
-- **Romans** 
-- **Nouvelles**
-- **Poèmes**
-- **Fanfictions**
+Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous devrez y ajouetr:
+- Le nom de l'œuvre.
+- Le synopsis.
+- Les chapitres.
 
 Avant de publier, assurez-vous de respecter les **directives de la charte** afin de garantir une expérience agréable et bienveillante pour tous.
+
+Une fois votre histoire soumise, celle-ci sera revue avant d'être ajoutée à la liste d'histoires du Scriptorium.
+
+## Qu'est-ce qui se passe si mon histoire n'est toujours pas publiée ?
+
+**Pas de panique !** Un long temps d'attente ne signifie pas forcément que votre histoire a été refusée. Nous faisons tout notre possible pour traiter les soumissions **le plus rapidement possible** et mettre à jour les publications au plus vite.
+
+Si vous souhaitez connaître l'état de votre soumission, n'hésitez pas à nous contacter par e-mail à : [sybelrfox@gmail.com](mailto:sybelrfox@gmail.com). Nous serons ravis de vous tenir informé !
+
 
 ---
 
