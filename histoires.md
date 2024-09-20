@@ -27,7 +27,7 @@ Chaque histoire est ouverte à la lecture et aux échanges. Après avoir dévor�
 ---
 
 ### ✍️ Publier vos écrits
-Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](#) pour soumettre vos œuvres. Vous pouvez y déposer :
+Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous pouvez y déposer :
 - **Romans** 
 - **Nouvelles**
 - **Poèmes**
