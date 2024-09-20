@@ -37,6 +37,13 @@ Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écritur
 ## Combien de chapitres puis-je publier ?
 - Vous pouvez ajouter à maximum de 10 chapitres à la fois une fois votre histoire acceptée.
 
+## Qu'est-ce qui se passe si mon histoire n'est toujours pas publiée ?
+
+- **Pas de panique !** Un long temps d'attente ne signifie pas forcément que votre histoire a été refusée. Nous faisons tout notre possible pour traiter les soumissions **le plus rapidement possible** et mettre à jour les publications au plus vite.
+
+- Si vous souhaitez connaître l'état de votre soumission, n'hésitez pas à nous contacter par e-mail à : [sybelrfox@gmail.com](mailto:sybelrfox@gmail.com). Nous serons ravis de vous tenir informé !
+
+
 ---
 
 
