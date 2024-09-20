@@ -6,7 +6,7 @@ title: Créer une Histoire
 # Créer une Nouvelle Histoire
 
 Remplissez le formulaire ci-dessous pour ajouter une nouvelle histoire à **Le Scriptorium**.
-Si vous ne l'avez pas encore fait, [Inscrivez-vous](inscriptions.md) d'abord.
+Si vous ne l'avez pas encore fait, [inscrivez-vous](inscriptions.md) d'abord.
 
 ##### ATTENTION : Il est important de renseigner le pseudo que vous avez utilisé lors de votre inscription et de la soumission de votre histoire afin de confirmer votre identité.
 
@@ -16,6 +16,9 @@ Si vous ne l'avez pas encore fait, [Inscrivez-vous](inscriptions.md) d'abord.
   <input type="text" id="pseudo" name="pseudo"><br><br>
 
   <label for="title">Titre de l'histoire :</label><br>
+  <input type="text" id="title" name="title"><br><br>
+
+  <label for="title"> Genre littéraire :</label><br>
   <input type="text" id="title" name="title"><br><br>
 
   <label for="synopsis">Résumé de l'histoire :</label><br>
