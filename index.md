@@ -10,19 +10,6 @@ Bienvenue sur **Le Scriptorium**, où les récits prennent vie ! Découvrez une 
 
 ---
 
-## Comment explorer les histoires ?
-
-### 🔍 Parcourir les récits
-Utilisez notre **moteur de recherche** pour voir les histoires disponibles sur Le Scriptorium :
-
-<input type="search" id="search-input" placeholder="Rechercher des histoires...">
-<div id="results"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/algoliasearch/dist/algoliasearch-lite.umd.js"></script>
-<script src="script.js"></script>
-
----
-
 ## Navigation
 - [Accueil](index.md)
 - [Histoires](histoires.md)
