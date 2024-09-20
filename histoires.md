@@ -2,20 +2,7 @@
 layout: default
 title: Histoires
 ---
-
-# Les Histoires
-
-Bienvenue sur **Le Scriptorium**, où les récits prennent vie ! Découvrez une collection fascinante d'œuvres littéraires variées publiées par notre communauté. Qu'il s'agisse de **romans épiques**, de **nouvelles intrigantes**, de **poèmes émouvants**, ou de **fanfictions captivantes**, chaque histoire reflète la créativité et l'imagination de nos membres.
-
----
-
-## Comment explorer les histoires ?
-
-### 🔍 Parcourir les récits
-Utilisez notre **moteur de recherche** pour trouver des histoires disponible sur Le Scriptorium :
-
----
-
+# Les histoires :
 
 ### ✍️ Publier vos écrits
 Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous devrez y ajouetr:
