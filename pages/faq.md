@@ -34,8 +34,12 @@ Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écritur
 ## Comment puis-je ajouter des chapitres
 - Vous pouvez ajouter vos chapitres en cliquant sur [Cliquez ici pour créer un chapitre](create-chapter.md). Cepandant, il est nécéssaire d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). Si vous publiez immédiatement vos chapitres, ils ne seront pas mis en ligne.
 
+---
+
 ## Combien de chapitres puis-je publier ?
 - Vous pouvez ajouter à maximum de 10 chapitres à la fois une fois votre histoire acceptée.
+
+---
 
 ## Qu'est-ce qui se passe si mon histoire n'est toujours pas publiée ?
 
