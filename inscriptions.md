@@ -15,8 +15,6 @@ L'inscription est simple et rapide. En tant que membre, vous aurez accès à tou
 
 2. **Accepter les Conditions Générales d’Utilisation** : Avant de finaliser votre inscription, lisez et acceptez notre [Charte](pages/charte.md) et nos [Conditions Générales d’Utilisation](conditions-generales.md) pour garantir une expérience conforme à nos règles communautaires.
 
-3. **Confirmer votre inscription** : Vous recevrez un e-mail de confirmation avec un lien pour activer votre compte. Cliquez sur ce lien pour terminer votre inscription.
-
 Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propres écrits, et participer activement à la vie de notre communauté littéraire. Nous sommes impatients de vous accueillir parmi nous !
 
 ---
