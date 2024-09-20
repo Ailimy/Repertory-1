@@ -1,7 +1,7 @@
 # Ajoutez un nouveau chapitre à votre histoire :
 
 ### Veuillez renseigner les informations-ci dessous afin que nous puissions mettre à jour votre histoire :
-### ATTENTION : Il est important de renseigner le mail que vous avez utilisé lors de votre première publication afin de confrimer votre identité.
+### ATTENTION : Il est important de renseigner le mail que vous avez utilisé lors de votre première publication afin de confirmer votre identité.
 
 <form action="https://formspree.io/f/mvgpjkyn" method="POST">
    <label for="mail">Adresse mail :</label><br>
