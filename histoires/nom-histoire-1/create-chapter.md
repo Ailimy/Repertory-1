@@ -4,8 +4,11 @@
 ### ATTENTION : Il est important de renseigner le mail que vous avez utilisé lors de votre première publication afin de confirmer votre identité.
 
 <form action="https://formspree.io/f/mvgpjkyn" method="POST">
-   <label for="mail">Adresse mail :</label><br>
+   <label for="mail"> Adresse e-mail :</label><br>
   <input type="text" id="mail" name="mail"><br><br>
+
+   <label for="ut"> Nom d'utilisateur :</label><br>
+  <input type="text" id="ut" name="ut"><br><br>
 
   <label for="title">Titre de l'histoire :</label><br>
   <input type="text" id="title" name="title"><br><br>
