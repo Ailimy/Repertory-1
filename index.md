@@ -14,11 +14,6 @@
 
 ---
 
-## Contenu Principal
-
-Contenu principal de la page d'accueil.
-
----
 
 ## Connexion
 
