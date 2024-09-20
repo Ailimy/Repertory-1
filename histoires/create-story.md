@@ -18,7 +18,10 @@ Si vous ne l'avez pas encore fait, [inscrivez-vous](inscriptions.md) d'abord.
   <label for="title">Titre de l'histoire :</label><br>
   <input type="text" id="title" name="title"><br><br>
 
-  <label for="title"> Genre littéraire :</label><br>
+  <label for="title"> Genre :</label><br>
+  <input type="text" id="title" name="title"><br><br>
+
+   <label for="title"> Type :</label><br>
   <input type="text" id="title" name="title"><br><br>
 
   <label for="synopsis">Résumé de l'histoire :</label><br>
