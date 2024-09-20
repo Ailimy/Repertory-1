@@ -22,9 +22,9 @@ Utilisez notre **moteur de recherche** pour voir les histoires disponibles sur L
 - [Histoires](histoires.md)
 - [Membres](membres.md)
 - [Inscriptions](inscriptions.md)
-- [FAQ](pages/faq.md)
-- [À propos](pages/about.md)
-- [Charte](pages/charte.md)
+- [FAQ](faq.md)
+- [À propos](about.md)
+- [Charte](charte.md)
 
 ---
 
