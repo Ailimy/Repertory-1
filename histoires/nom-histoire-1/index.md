@@ -17,8 +17,3 @@ Voici le synopsis de l'histoire. [Vous pouvez également ajouter plus de détail
 - [Chapitre 2](chapter-2.md)
 
 ---
-
-## Ajouter un Chapitre
-
-Vous souhaitez ajouter un nouveau chapitre à cette histoire ? [Cliquez ici pour créer un chapitre](create-chapter.md).
-
