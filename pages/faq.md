@@ -26,18 +26,16 @@ Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écritur
 
 ---
 
-## Comment signaler un abus ou un contenu inapproprié ?
-- Si vous tombez sur un contenu inapproprié ou un comportement qui viole la charte du site, vous pouvez contacter la créatrice du site à sybelrfox@gmail.com
-
----
-
 ## Le site est-il gratuit ?
 - Oui, l'inscription et l'utilisation de base du site sont entièrement gratuites. Cependant, nous proposons des options premium pour ceux qui souhaitent soutenir la plateforme ou bénéficier de fonctionnalités supplémentaires.
 
 ---
 
-## Comment puis-je recevoir des retours sur mes écrits ?
-- Vous pouvez recevoir des commentaires de la part des autres utilisateurs en activant l'option "Commentaires" lorsque vous publiez une œuvre. Les critiques constructives sont encouragées dans la communauté.
+## Comment puis-je ajouter des chapitres
+- Vous pouvez ajouter vos chapitres en cliquant sur le bouton XXXX. Cepandant, il est nécéssaire d'avoir soumis au préalable votre histoire à XXXX. Si vous publiez immédiatement vos chapitres, ils ne seront pas mis en ligne.
+
+## Combien de chapitres puis-je publier ?
+- Vous pouvez ajouter à maximum de 10 chapitres à la fois une fois votre histoire acceptée.
 
 ---
 
