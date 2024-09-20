@@ -12,7 +12,7 @@ Remplissez le formulaire ci-dessous pour ajouter une nouvelle histoire à **Le S
   <input type="text" id="mail" name="mail"><br><br>
 
   <form action="https://formspree.io/f/mvgpjkyn" method="POST">
-   <label for="pseudo">Pseudo à afficher :</label><br>
+   <label for="pseudo">Nom d'utilisateur : </label><br>
   <input type="text" id="pseudo" name="pseudo"><br><br>
 
   <label for="title">Titre de l'histoire :</label><br>
