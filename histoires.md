@@ -8,7 +8,6 @@ title: Histoires
 Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous devrez y ajouter:
 - Le nom de l'œuvre.
 - Le synopsis.
-- Le premier chapitre.
 
 - Une fois votre histoire soumise, celle-ci sera revue avant d'être ajoutée à la liste d'histoires du Scriptorium.
 - Vous pourrez ensuite [ajouter de nouveaux chapitres](histoires/nom-histoire-1/create-chapter.md).
