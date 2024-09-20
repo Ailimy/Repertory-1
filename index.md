@@ -3,6 +3,20 @@
 
 ![Texte alternatif](assets/files/header-image.jpg)
 
+
+## Bienvenue
+
+Bienvenue sur **Le Scriptorium**, où les récits prennent vie ! Découvrez une collection fascinante d'œuvres littéraires variées publiées par notre communauté. Qu'il s'agisse de **romans épiques**, de **nouvelles intrigantes**, de **poèmes émouvants**, ou de **fanfictions captivantes**, chaque histoire reflète la créativité et l'imagination de nos membres.
+
+---
+
+## Comment explorer les histoires ?
+
+### 🔍 Parcourir les récits
+Utilisez notre **moteur de recherche** pour voir les histoires disponibles sur Le Scriptorium :
+
+---
+
 ## Navigation
 - [Accueil](index.md)
 - [Histoires](histoires.md)
