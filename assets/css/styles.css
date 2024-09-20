@@ -126,3 +126,20 @@ a:hover {
     text-decoration: underline;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+#search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#results div {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 15px;
+}
