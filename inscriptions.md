@@ -28,12 +28,6 @@ Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propre
     <label for="email">Adresse e-mail :</label>
     <input type="email" id="email" name="email" required>
 
-    <label for="password">Mot de passe :</label>
-    <input type="password" id="password" name="password" required>
-
-    <label for="confirm-password">Confirmer le mot de passe :</label>
-    <input type="password" id="confirm-password" name="confirm-password" required>
-
     <label>
         <input type="checkbox" name="terms" required>
         J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/pages/charte.html" target="_blank">Charte</a>.
