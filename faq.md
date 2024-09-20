@@ -7,12 +7,13 @@ title: FAQ
 
 ##  **Qu'est-ce que Le Scriptorium ?**
 
-Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écriture. Vous pouvez y publier vos œuvres, lire celles des autres membres, participer à des discussions littéraires et bien plus encore. C’est un espace libre et gratuit pour tous ceux qui souhaitent partager leur créativité avec la communauté.
+- Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écriture. Vous pouvez y publier vos œuvres et lire celles des autres membres. C’est un espace libre et gratuit pour tous ceux qui souhaitent partager leur créativité avec la communauté.
 
 ---
 
 ## Comment créer un compte ?
-- Pour créer un compte, cliquez sur "S'inscrire" en haut à gauche de la page d'accueil et suivez les instructions. Une fois inscrit·e, vous pouvez commencer à publier vos œuvres et interagir avec la communauté.
+- Pour vous inscrire, il vous suffit de cliquer sur [Inscriptions](inscriptions.md) trouvable sur la page d'accueil.
+
 
 ---
 
@@ -27,17 +28,17 @@ Le Scriptorium est une plateforme en ligne dédiée aux passionnés d’écritur
 ---
 
 ## Le site est-il gratuit ?
-- Oui, l'inscription et l'utilisation de base du site sont entièrement gratuites. Cependant, nous proposons des options premium pour ceux qui souhaitent soutenir la plateforme ou bénéficier de fonctionnalités supplémentaires.
+- Oui, l'inscription et l'utilisation de base du site sont entièrement gratuites. 
 
 ---
 
-## Comment puis-je ajouter des chapitres
-- Vous pouvez ajouter vos chapitres en cliquant sur [Cliquez ici pour créer un chapitre](create-chapter.md). Cepandant, il est nécéssaire d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). Si vous publiez immédiatement vos chapitres, ils ne seront pas mis en ligne.
+## Comment puis-je ajouter des chapitres ?
+- Vous pouvez ajouter vos chapitres en cliquant sur [Cliquez ici pour créer un chapitre](create-chapter.md). Cepandant, il est nécessaire d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). Si vous publiez immédiatement vos chapitres, ils ne seront pas mis en ligne.
 
 ---
 
 ## Combien de chapitres puis-je publier ?
-- Vous pouvez ajouter à maximum de 10 chapitres à la fois une fois votre histoire acceptée.
+- Vous pouvez ajouter à maximum de 10 chapitres à la fois une fois votre histoire acceptée et votre premier chapitre mis en ligne par les modérateurs.
 
 ---
 
