@@ -7,7 +7,7 @@ title: Titre de l'Histoire 1
 
 ## Synopsis
 
-Voici le synopsis de l'histoire. [Vous pouvez également ajouter plus de détails ou un lien vers la biographie de l'auteur ici.]
+Voici le synopsis de l'histoire. 
 
 ---
 
