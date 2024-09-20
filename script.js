@@ -1,7 +1,7 @@
 import { algoliasearch } from 'algoliasearch/lite';
 
 // Remplace ces valeurs par celles de ton compte Algolia
-const client = algoliasearch('LW91O8IAKB', 'a12a993fdf2b30cba2b22f1aaab1653d');
+const client = algoliasearch('LW91O8IAKB', '42c3920b086391e13c3fbef3b7ba7852');
 const index = client.initIndex('movies_index'); // Remplace par le nom de ton index
 
 // Tes données à indexer
