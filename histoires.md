@@ -10,9 +10,9 @@ Envie de partager vos propres créations ? Rendez-vous sur la [page de publicati
 - Le synopsis.
 - Le premier chapitre.
 
-Une fois votre histoire soumise, celle-ci sera revue avant d'être ajoutée à la liste d'histoires du Scriptorium.
-Vous pourrez ensuite cliquer sur [Cliquez ici pour créer un chapitre](create-chapter.md) afin d'ajouter de nouveaux chpitres.
-###NB : Un total de 10 chapitres MAXIMUM pourra être ajouté à la fois.
+- Une fois votre histoire soumise, celle-ci sera revue avant d'être ajoutée à la liste d'histoires du Scriptorium.
+- Vous pourrez ensuite ajouter de nouveaux chapitres.
+- ### NB : Un total de 10 chapitres MAXIMUM pourra être ajouté à la fois.
 
 Avant de publier, assurez-vous de respecter les **directives de la charte** afin de garantir une expérience agréable et bienveillante pour tous.
 Pour toute question, consultez notre [FAQ](faq.md).
