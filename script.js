@@ -6,7 +6,7 @@ const index = client.initIndex('movies_index'); // Remplace par le nom de ton in
 
 // Tes données à indexer
 const stories = [
-    { objectID: "1", title: "Le Voyage Mystérieux", description: "Une aventure dans un monde inconnu.", author: "Jean Dupont", genre: "Aventure" },
+    { objectID: "1", title: "Titre de l’Histoire 1", description: "Une aventure dans un monde inconnu.", author: "Jean Dupont", genre: "Aventure" },
     { objectID: "2", title: "L'Énigme du Temps", description: "Un mystère qui traverse les âges.", author: "Marie Curie", genre: "Science Fiction" },
     // Ajoute d'autres histoires ici
 ];
