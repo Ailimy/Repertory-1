@@ -19,9 +19,6 @@ Si vous ne l'avez pas encore fait, [Inscrivez-vous](inscriptions.md) d'abord.
   <label for="synopsis">Résumé de l'histoire :</label><br>
   <textarea id="synopsis" name="synopsis"></textarea><br><br>
 
-  <label for="chapter-1">Chapitre 1 :</label><br>
-  <textarea id="chapter-1" name="chapter-1"></textarea><br><br>
-
   <input type="submit" value="Soumettre">
 </form>
 
