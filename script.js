@@ -19,3 +19,26 @@ index.saveObjects(stories)
     .catch(err => {
         console.error('Erreur lors de l’indexation :', err);
     });
+
+const searchInput = document.getElementById('search-input');
+const resultsContainer = document.getElementById('results');
+
+searchInput.addEventListener('input', async function() {
+    const query = searchInput.value;
+    if (query) {
+        const { hits } = await index.search(query);
+        displayResults(hits);
+    } else {
+        resultsContainer.innerHTML = ''; // Efface les résultats si le champ est vide
+    }
+});
+
+function displayResults(hits) {
+    resultsContainer.innerHTML = hits.map(hit => `
+        <div>
+            <h3>${hit.title}</h3>
+            <p>${hit.description}</p> <!-- Adapte selon tes champs -->
+        </div>
+    `).join('');
+}
+
