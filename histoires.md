@@ -15,8 +15,8 @@ Vous pourrez ensuite cliquer sur [Cliquez ici pour créer un chapitre](create-ch
 ###NB : Un total de 10 chapitres MAXIMUM pourra être ajouté à la fois.
 
 Avant de publier, assurez-vous de respecter les **directives de la charte** afin de garantir une expérience agréable et bienveillante pour tous.
-
 Pour toute question, consultez notre [FAQ](faq.md).
+
 ---
 
 ## Histoires disponibles
