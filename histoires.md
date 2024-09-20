@@ -5,7 +5,7 @@ title: Histoires
 # Les histoires :
 
 ### ✍️ Publier vos écrits
-Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous devrez y ajouetr:
+Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous devrez y ajouter:
 - Le nom de l'œuvre.
 - Le synopsis.
 - Le premier chapitre.
