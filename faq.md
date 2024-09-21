@@ -33,7 +33,7 @@ title: FAQ
 ---
 
 ## Comment puis-je ajouter des chapitres ?
-- Vous pouvez ajouter vos chapitres en cliquant sur [créer un chapitre](create-chapter.md). Cepandant, il est nécessaire de [s'inscrire](inscriptions.md) et d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). 
+- Vous pouvez ajouter vos chapitres en cliquant sur [créer un chapitre](histoires/nom-histoire-1/create-chapter.md). Cepandant, il est nécessaire de [s'inscrire](inscriptions.md) et d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). 
 Si vous publiez directement vos chapitres, ils ne seront pas mis en ligne.
 
 ---
