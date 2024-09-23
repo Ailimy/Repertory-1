@@ -1,7 +1,7 @@
 
 # Le Scriptorium
 
-![Texte alternatif](assets/files)
+![Texte alternatif](assets/files/image.jpg)
 
 
 ## Bienvenue
