@@ -2,10 +2,11 @@
 layout: default
 title: Histoires
 ---
-# Les histoires :
+> # Les histoires :
 
 ### ✍️ Publier vos écrits
-Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres. Vous devrez y ajouter:
+> Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](histoires/create-story.md) pour soumettre vos œuvres.
+> Vous devrez y ajouter:
 - Le nom de l'œuvre.
 - Le genre (fantastique, historique, action, horreur...etc.)
 - Le type (roman, nouvelle, fanfiction...etc.)
