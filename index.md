@@ -14,7 +14,6 @@ Bienvenue sur **Le Scriptorium**, où les récits prennent vie ! Découvrez une 
 - [Histoires](histoires.md)
 - [Inscriptions](inscriptions.md)
 - [FAQ](faq.md)
-- [À propos](about.md)
 - [Charte](charte.md)
 
 ---
