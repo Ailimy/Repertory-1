@@ -28,13 +28,13 @@ title: FAQ
 ---
 
 ## Le site est-il gratuit ?
-- Oui, l'inscription et l'utilisation de base du site sont entièrement gratuites. 
+- ~~Non, le site est payant~~ Bien sûr qu'il est gratuit ! L'inscription et l'utilisation de base du site sont entièrement gratuites. 
 
 ---
 
 ## Comment puis-je ajouter des chapitres ?
 - Vous pouvez ajouter vos chapitres en cliquant sur [créer un chapitre](histoires/nom-histoire-1/create-chapter.md). Cepandant, il est nécessaire de [s'inscrire](inscriptions.md) et d'avoir soumis au préalable votre histoire sur la [page de publication](histoires/create-story.md). 
-Si vous publiez directement vos chapitres, ils ne seront pas mis en ligne.
+Si vous publiez directement vos chapitres, ~~vous serez bannis~~ ils ne seront pas mis en ligne.
 
 ---
 
@@ -43,14 +43,9 @@ Si vous publiez directement vos chapitres, ils ne seront pas mis en ligne.
 
 ---
 
-## Comment savoir si mon histoire a été acceptée ?
-- Vous recevrez un e-mail vous confirmant que votre histoire a bien été vérifiée. Une fois cet e-mail reçu, vous pourrez commencer à publier vos chapitres.
-
----
-
 ## Qu'est-ce qui se passe si mon histoire n'est toujours pas publiée ?
 
-- **Pas de panique !** Un long temps d'attente ne signifie pas forcément que votre histoire a été refusée. Nous faisons tout notre possible pour traiter les soumissions **le plus rapidement possible** et mettre à jour les publications au plus vite.
+- ~~Elle ne le sera jamais~~ **Pas de panique !** Un long temps d'attente ne signifie pas forcément que votre histoire a été refusée. Nous faisons tout notre possible pour traiter les soumissions **le plus rapidement possible** et mettre à jour les publications au plus vite.
 
 - Si vous souhaitez connaître l'état de votre soumission, n'hésitez pas à nous contacter par e-mail à : [lescriptorium@gmail.com](mailto:lescriptorium@gmail.com). Nous serons ravis de vous tenir informé !
 
