@@ -1,7 +1,7 @@
 
 # Le Scriptorium
 
-![Texte alternatif](https://zupimages.net/viewer.php?id=24/39/776u.jpg)
+![Texte alternatif](assets/files)
 
 
 ## Bienvenue
