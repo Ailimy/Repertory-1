@@ -1,3 +1,8 @@
+---
+layout: default
+title: Create chapter
+---
+
 # Ajoutez un nouveau chapitre à votre histoire :
 
 ### Veuillez renseigner les informations-ci dessous afin que nous puissions mettre à jour votre histoire :
