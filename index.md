@@ -9,7 +9,7 @@ title: Accueil
 >>>> ![Texte alternatif](assets/files/image2.jpg)
 
 
->>>>>>>>> ## Bienvenue
+>>>>>>>> ## Bienvenue
 >
 >>>>>> Bienvenue sur **Le Scriptorium**, où les récits prennent _vie_ !
 >
