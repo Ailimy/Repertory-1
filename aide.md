@@ -11,16 +11,16 @@ title: Aide à la création
 >
 >>> ## Formatage des textes
 >
->>> Pour structurer votre texte et ajouter des titres, vous pouvez utiliser les balises suivantes en Markdown :
+>>> **Pour structurer votre texte et ajouter des titres, vous pouvez utiliser les balises suivantes en Markdown :**
 >
->>> - Un titre de premier niveau : `# Titre`
->>> - Un titre de second niveau : `## Titre`
->>> - Un titre de troisième niveau : `### Titre`
+>>> - ❇︎ Un titre de premier niveau : `# Titre`
+>>> - ❇︎ Un titre de second niveau : `## Titre`
+>>> - ❇︎ Un titre de troisième niveau : `### Titre`
 >
 >>> **Pour créer des paragraphes et des listes :**
 >
 ~~~~
-> ## This is a header.
+> ## Ceci est un titre.
 > 
 > > Ceci est votre premier paragraphe.
 > >
@@ -28,18 +28,18 @@ title: Aide à la création
 >
 ~~~~
 >
->>> - Une liste à puces : 
+>>> **Une liste à puces :** 
     - `- Élément 1`
     - `- Élément 2`
 >>> - Une liste ordonnée : 
-    `1. Élément 1`
-    `2. Élément 2`
+    - `1. Élément 1`
+    -`2. Élément 2`
 >
 ---
 >
 >>> ## Tableaux
 >
->>> Vous pouvez aussi insérer des tableaux pour mieux organiser vos informations :
+>>> Vous pouvez aussi insérer des **tableaux** pour mieux organiser vos informations :
 >
 >
 ~~~~
