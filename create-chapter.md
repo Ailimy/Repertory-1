@@ -18,7 +18,7 @@ title: Create chapter
 >>>>>>>><label for="chapter-1">Chapitre 1 :</label><br>
 >>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
   
->>>>>>>>><label for="chapter-1">Chapitre 2 :</label><br>
+>>>>>>>><label for="chapter-1">Chapitre 2 :</label><br>
 >>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
 >>>>>>>><label for="chapter-1">Chapitre 3 :</label><br>
