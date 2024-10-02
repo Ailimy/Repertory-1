@@ -25,9 +25,9 @@ title: Inscriptions
 >>>>>>>>>>>>>>>
 >>>>>>>>>>>>>> ## Formulaire d'inscription
 
->>>>>>>>>>>>>>>>>>>> <form action="https://formspree.io/f/xrbzwqev" method="post">
-    >>>>>>>>>>>>>>>>>>>> <label for="username">Nom d'utilisateur :</label>
-    >>>>>>>>>>>>>>>>>>>> <input type="text" id="username" name="username" required>
+<form action="https://formspree.io/f/xrbzwqev" method="post">
+   <label for="username">Nom d'utilisateur :</label>
+    <input type="text" id="username" name="username" required>
 
     <label for="email">Adresse e-mail :</label>
     <input type="email" id="email" name="email" required>
