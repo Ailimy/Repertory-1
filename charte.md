@@ -3,7 +3,7 @@ layout: default
 title: Charte
 ---
 
-> # Charte du site
+>>>>>>>>>>>>>>> # Charte du site
 
 >>>>>>>>>>> Bienvenue sur Le Scriptorium. Afin de garantir une expérience agréable et respectueuse pour tous les membres, nous vous demandons de bien vouloir lire et respecter la charte suivante.
 
