@@ -28,5 +28,5 @@ Si vous ne l'avez pas encore fait, [inscrivez-vous](inscriptions.md) d'abord.
   >>>>>>>>>>>>>>>><textarea id="synopsis" name="synopsis"></textarea><br><br>
 
   >>>>>>>>>>>>>>>><input type="submit" value="Soumettre">
-</form>
+>>>>>>>>>>>>>>>></form>
 
