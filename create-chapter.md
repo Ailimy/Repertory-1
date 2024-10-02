@@ -12,40 +12,40 @@ title: Create chapter
 >>>><label for="ut"> Nom d'utilisateur :</label><br>
 >>>><input type="text" id="ut" name="ut"><br><br>
 
->>>>>><label for="title">Titre de l'histoire :</label><br>
->>>>>><input type="text" id="title" name="title"><br><br>
+>>>>>>>><label for="title">Titre de l'histoire :</label><br>
+>>>>>>>><input type="text" id="title" name="title"><br><br>
 
->>>>>><label for="chapter-1">Chapitre 1 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 1 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
   
->>>>>><label for="chapter-1">Chapitre 2 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>>><label for="chapter-1">Chapitre 2 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 3 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 3 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 4 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 4 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 5 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 5 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 6 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 6 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 7 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 7 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 8 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 8 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 9 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 9 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>><label for="chapter-1">Chapitre 10 :</label><br>
->>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
+>>>>>>>><label for="chapter-1">Chapitre 10 :</label><br>
+>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
 <input type="submit" value="Soumettre">
-  </form>
+  >>>></form>
 
 >>>>###### NB : Ajoutez "NONE" si vous ne souhaitez pas remplir l'entièreté des 10 chapitres.
