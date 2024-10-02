@@ -3,7 +3,7 @@ layout: default
 title: Aide à la création
 ---
 
->>># Aide à la création d'histoires
+>>># Aide à la création de votre site d'histoires
 >
 >>> Bienvenue dans la section d'aide pour la création de votre propre site d'histoires. Voici quelques conseils pour bien formater votre contenu :
 >
@@ -17,7 +17,16 @@ title: Aide à la création
 >>> - Un titre de second niveau : `## Titre`
 >>> - Un titre de troisième niveau : `### Titre`
 >
->>> Pour créer des paragraphes et des listes :
+>>> **Pour créer des paragraphes et des listes :**
+>
+~~~~
+> ## This is a header.
+> 
+> > Ceci est votre premier paragraphe.
+> >
+> Ceci est votre second paragraphe.
+>
+~~~~
 >
 >>> - Une liste à puces : 
     - `- Élément 1`
@@ -34,8 +43,8 @@ title: Aide à la création
 >
 >
 ~~~~
-Première colonne  | Deuxième colonne
-------------- | -------------
-Ligne 1  | Ligne 1
-Ligne 2  | Ligne 2
+> Première colonne  | Deuxième colonne
+> ------------- | -------------
+> Ligne 1  | Ligne 1
+> Ligne 2  | Ligne 2
 ~~~~
