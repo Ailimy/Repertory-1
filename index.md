@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Le Scriptorium
+title: Accueil
 ---
 
 >>>>>>>>>>>>>>> # Le Scriptorium
