@@ -29,11 +29,11 @@ title: Aide à la création
 ~~~~
 >
 >>> **Une liste à puces :** 
- >   - `- Élément 1`
- >   - `- Élément 2`
+ >    `- Élément 1`
+ >    `- Élément 2`
 >>> - Une liste ordonnée : 
-    1. Élément 1
-    2. Élément 2
+    `1. Élément 1`
+    `2. Élément 2`
 ---
 >
 >>> ## Tableaux
