@@ -3,7 +3,7 @@ layout: default
 title: Créer une Histoire
 ---
 
->>>>>>># Créer une Nouvelle Histoire
+>>>>>># Créer une Nouvelle Histoire
 
 >>>> Remplissez le formulaire ci-dessous pour ajouter une nouvelle histoire à **Le Scriptorium**.
 Si vous ne l'avez pas encore fait, [inscrivez-vous](inscriptions.md) d'abord.
@@ -22,7 +22,7 @@ Si vous ne l'avez pas encore fait, [inscrivez-vous](inscriptions.md) d'abord.
   >>>><input type="text" id="title" name="title"><br><br>
 
    >>>><label for="title"> Type :</label><br>
-  >>>>input type="text" id="title" name="title"><br><br>
+   >>>><input type="text" id="title" name="title"><br><br>
 
   >>>><label for="synopsis">Résumé de l'histoire :</label><br>
   >>>><textarea id="synopsis" name="synopsis"></textarea><br><br>
