@@ -3,12 +3,12 @@ layout: default
 title: Create chapter
 ---
 
->>>>>>>>>>># Ajoutez un nouveau chapitre à votre histoire :
+>>>>>>>>>># Ajoutez un nouveau chapitre à votre histoire :
 
 >>>>>>>>>>### Veuillez renseigner les informations-ci dessous afin que nous puissions mettre à jour votre histoire :
 >>>>>>>>>>##### ATTENTION : Il est important de renseigner le pseudo que vous avez utilisé lors de votre inscription et de la soumission de votre histoire afin de confirmer votre identité.
 
->>>>>>>>>>>>>>><form action="https://formspree.io/f/mvgpjkyn" method="POST">
+<form action="https://formspree.io/f/mvgpjkyn" method="POST">
   >>>>>>>>>>>>>>> <label for="ut"> Nom d'utilisateur :</label><br>
  >>>>>>>>>>>>>>> <input type="text" id="ut" name="ut"><br><br>
 
@@ -46,6 +46,6 @@ title: Create chapter
  >>>>>>>>>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
   >>>>>>>>>>>>>>><input type="submit" value="Soumettre">
-  >>>>>>>>>>>>>>></form>
+  </form>
 
 >>>>>>>>>>>###### NB : Ajoutez "NONE" si vous ne souhaitez pas remplir l'entièreté des 10 chapitres.
