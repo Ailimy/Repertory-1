@@ -18,12 +18,13 @@ title: Aide à la création
 >>> - Un titre de troisième niveau : `### Titre`
 >
 >>> Pour créer des paragraphes et des listes :
+>
 >>> - Une liste à puces : 
     - `- Élément 1`
     - `- Élément 2`
 >>> - Une liste ordonnée : 
-    1. Élément 1
-    2. Élément 2
+    `1. Élément 1`
+    `2. Élément 2`
 >
 ---
 >
@@ -31,7 +32,8 @@ title: Aide à la création
 >
 >>> Vous pouvez aussi insérer des tableaux pour mieux organiser vos informations :
 >
-```markdown
+>
+```
 Première colonne  | Deuxième colonne
 ------------- | -------------
 Ligne 1  | Ligne 1
