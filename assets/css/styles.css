@@ -1,25 +1,3 @@
-/* Styles globaux */
-body {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-}
-
-/* Styles pour l'en-tête */
-header {
-    background-color: #007bff; /* Couleur d'arrière-plan de l'en-tête */
-    color: #fff; /* Couleur du texte de l'en-tête */
-    padding: 20px;
-    text-align: center;
-}
-
-.header-image {
-    max-width: 100%;
-    height: auto;
-    margin-top: 10px;
-}
 
 /* Styles pour la navigation */
 .navbar {
