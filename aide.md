@@ -33,8 +33,9 @@ title: Aide à la création
 >>> Vous pouvez aussi insérer des tableaux pour mieux organiser vos informations :
 >
 >
-```
+~~~~
 Première colonne  | Deuxième colonne
 ------------- | -------------
 Ligne 1  | Ligne 1
 Ligne 2  | Ligne 2
+~~~~
