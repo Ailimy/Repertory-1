@@ -9,10 +9,10 @@ title: Histoires
 >>>> Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](create-story.md) pour soumettre vos œuvres.
 >>>> Vous devrez y ajouter:
 
-- Le nom de l'œuvre.
-- Le genre (fantastique, historique, action, horreur...etc.)
-- Le type (roman, nouvelle, fanfiction...etc.)
-- Le synopsis.
+>>>>- ❇︎ Le nom de l'œuvre.
+>>>>- ❇︎ Le genre (fantastique, historique, action, horreur...etc.)
+>>>>- ❇︎ Le type (roman, nouvelle, fanfiction...etc.)
+>>>>- ❇︎ Le synopsis.
 
 >>>> Une fois votre histoire soumise, celle-ci sera revue avant d'être ajoutée à la liste d'histoires du Scriptorium.
 >
