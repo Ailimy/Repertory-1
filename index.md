@@ -3,7 +3,8 @@ layout: default
 title: Accueil
 ---
 
->>>>>>>> # Le Scriptorium
+>>>>>>>> # Le
+>>>>>>>> #Scriptorium
 
 >>>>> ![Texte alternatif](assets/files/image2.jpg)
 
