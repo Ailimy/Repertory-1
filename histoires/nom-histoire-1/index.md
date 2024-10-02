@@ -3,7 +3,7 @@ layout: default
 title: Titre de l'Histoire 1
 ---
 
->>>>>>>>>>>>>>># Titre de l'Histoire 1
+>>>>>>>>>>>># Titre de l'Histoire 1
 
 >>>>>>>>>>>>>>>## Synopsis
 
