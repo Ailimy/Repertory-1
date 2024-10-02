@@ -3,7 +3,7 @@ layout: default
 title: Aide à la création
 ---
 
->>>>># Aide à la création d'histoires
+>>># Aide à la création d'histoires
 >
 >>> Bienvenue dans la section d'aide pour la création de votre propre site d'histoires. Voici quelques conseils pour bien formater votre contenu :
 >
