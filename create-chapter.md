@@ -12,7 +12,7 @@ title: Create chapter
   >>>>>>>>>>>>>>><label for="ut"> Nom d'utilisateur :</label><br>
  >>>>>>>>>>>>>>> <input type="text" id="ut" name="ut"><br><br>
 
- >>>>>>>>>>>>>>> <label for="title">Titre de l'histoire :</label><br>
+ >>>>>>>>>>>>>><label for="title">Titre de l'histoire :</label><br>
  >>>>>>>>>>>>>>><input type="text" id="title" name="title"><br><br>
 
  >>>>>>>>>>>>>>><label for="chapter-1">Chapitre 1 :</label><br>
