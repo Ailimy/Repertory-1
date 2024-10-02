@@ -3,7 +3,7 @@ layout: default
 title: Conditions Générales d'Utilisation
 ---
 
->>>>>>>>>>>>>>> # Conditions Générales d'Utilisation
+>>>>>>>>>>> # Conditions Générales d'Utilisation
 
 >>>>>>>>>>>Bienvenue sur Le Scriptorium. Avant d'utiliser notre site, veuillez lire attentivement ces conditions générales d'utilisation.
 
