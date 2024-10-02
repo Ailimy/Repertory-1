@@ -9,6 +9,6 @@ title: Chapitre 1 - Titre de l'Histoire 1
 
 ---
 
->>>>>>>>>>**Chapitre Suivant :** Indisponible pour le moment, restez à l'affût ! | [Retour à l'Histoire](index.md)
+>>>>>>>>>>**Chapitre Suivant :** Indisponible pour le moment, restez à l'affût ! | [Retour à l'Histoire](nom-histoire-1.md)
 
 
