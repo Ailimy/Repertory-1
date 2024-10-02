@@ -2,9 +2,9 @@
 layout: default
 title: Histoires
 ---
->>>>>>>>>> # Les histoires :
+>>>> # Les histoires :
 
->>>>>>>>> ### ✍️ Publier vos écrits
+>>>> ### ✍️ Publier vos écrits
 
 >>>> Envie de partager vos propres créations ? Rendez-vous sur la [page de publication](create-story.md) pour soumettre vos œuvres.
 >>>> Vous devrez y ajouter:
@@ -22,8 +22,8 @@ title: Histoires
 
 ---
 
->>>>>>>>>>>>>>> ## Histoires disponibles
+>>>> ## Histoires disponibles
 
->>>>>>>>>>>>>>> [Titre de l'Histoire 1](nom-histoire-1.md)
+>>>> [Titre de l'Histoire 1](nom-histoire-1.md)
   - Résumé rapide de l'histoire.
 
