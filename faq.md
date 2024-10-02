@@ -4,7 +4,7 @@ title: FAQ
 ---
 
 >>>>>>>>> # FAQ
->>> # Foire Aux Questions
+>
 
 > ##  **Qu'est-ce que Le Scriptorium ?**
 
