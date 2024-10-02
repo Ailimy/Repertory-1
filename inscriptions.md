@@ -19,7 +19,7 @@ title: Inscriptions
 
 ---
 
->>>>> ## Formulaire d'inscription
+>>>>>> ## Formulaire d'inscription
 
 <form action="https://formspree.io/f/xrbzwqev" method="post">
    <label for="username">Nom d'utilisateur :
