@@ -8,7 +8,7 @@ title: Create chapter
 >>>>>>>>>>### Veuillez renseigner les informations-ci dessous afin que nous puissions mettre à jour votre histoire :
 >>>>>>>>>>##### ATTENTION : Il est important de renseigner le pseudo que vous avez utilisé lors de votre inscription et de la soumission de votre histoire afin de confirmer votre identité.
 
->>>>>>>>>>>>>>><form action="https://formspree.io/f/mvgpjkyn" method="POST">
+<form action="https://formspree.io/f/mvgpjkyn" method="POST">
   >>>>>>>>>>>>>>> <label for="ut"> Nom d'utilisateur :</label><br>
  >>>>>>>>>>>>>>> <input type="text" id="ut" name="ut"><br><br>
 
