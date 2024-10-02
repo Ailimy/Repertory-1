@@ -1,8 +1,8 @@
 /* Styles globaux */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #e9ecef; /* Couleur de fond douce */
     margin: 0;
     padding: 0;
 }
@@ -36,11 +36,15 @@ header {
     font-weight: bold;
 }
 
+.navbar a:hover {
+    color: #ffc107; /* Couleur survolée pour les liens */
+}
+
 /* Styles pour le contenu principal */
 main {
     padding: 20px;
     max-width: 800px;
-    margin: 0 auto;
+    margin: 20px auto;
     background-color: #fff; /* Couleur de fond du contenu principal */
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère autour du contenu */
@@ -70,11 +74,7 @@ footer {
     bottom: 0;
 }
 
-
-
-
-/* styles.css */
-
+/* Styles pour les formulaires */
 form {
     display: flex;
     flex-direction: column;
@@ -118,6 +118,7 @@ label input[type="checkbox"] {
     margin-right: 10px;
 }
 
+/* Styles pour les liens */
 a {
     color: #007bff;
 }
@@ -126,20 +127,13 @@ a:hover {
     text-decoration: underline;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #f9f9f9;
-}
+/* Styles pour le moteur de recherche */
 #search-input {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
 }
+
 #results div {
     background: #fff;
-    border: 1px solid #ddd;
-    margin: 10px 0;
-    padding: 15px;
-}
+    border: 1
