@@ -12,7 +12,7 @@ title: Charte
 > Voici un tableau des 3 règles principales à respecter pour publier des histoires sur Le Scriptorium :
 >
 >
-Les 3 règles fondamentales
+Les 3 règles fondamentales | Ce qui veut dire...?
 ------------- | -------------
 **Règle 1 : Originalité** | Les histoires doivent être originales et ne pas enfreindre les droits d'auteur.
 **Règle 2 : Respect des autres membres** | Aucune publication incitant à la haine ou à la violence ne sera tolérée.
