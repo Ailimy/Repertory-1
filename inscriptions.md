@@ -25,18 +25,18 @@ title: Inscriptions
 >>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>> ## Formulaire d'inscription
 
-<form action="https://formspree.io/f/xrbzwqev" method="post">
-    <label for="username">Nom d'utilisateur :</label>
-    <input type="text" id="username" name="username" required>
+>>>>>>>>>>>>>>>>>>>><form action="https://formspree.io/f/xrbzwqev" method="post">
+    >>>>>>>>>>>>>>>>>>>><label for="username">Nom d'utilisateur :</label>
+    >>>>>>>>>>>>>>>>>>>><input type="text" id="username" name="username" required>
 
-    <label for="email">Adresse e-mail :</label>
-    <input type="email" id="email" name="email" required>
+    >>>>>>>>>>>>>>>>>>>><label for="email">Adresse e-mail :</label>
+    >>>>>>>>>>>>>>>>>>>><input type="email" id="email" name="email" required>
 
-    <label>
-        <input type="checkbox" name="terms" required>
-        J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/pages/charte.html" target="_blank">Charte</a>.
+    >>>>>>>>>>>>>>>>>>>><label>
+        >>>>>>>>>>>>>>>>>>>><input type="checkbox" name="terms" required>
+        >>>>>>>>>>>>>>>>>>>>J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/pages/charte.html" target="_blank">Charte</a>.
     </label>
 
-    <button type="submit">S'inscrire</button>
+    >>>>>>>>>>>>>>>>>>>><button type="submit">S'inscrire</button>
 </form>
 ---
