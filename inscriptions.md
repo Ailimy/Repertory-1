@@ -15,7 +15,7 @@ title: Inscriptions
 
 >>>>>>>>>>> 1. **Remplir le formulaire d'inscription** : Fournissez les informations demandées ci-dessous.
 
->>>>>>>>>>> 2. **Accepter les Conditions Générales d’Utilisation** : Avant de finaliser votre inscription, lisez et acceptez nos [Conditions Générales d’Utilisation](conditions-generales.md) pour garantir une expérience conforme à nos règles communautaires.
+>>>>>>>>>>> 2. **Accepter les Conditions Générales d’Utilisation** : Avant de finaliser votre inscription, lisez et acceptez notre [charte] (charte.md) et nos [Conditions Générales d’Utilisation](conditions-generales.md) pour garantir une expérience conforme à nos règles communautaires.
 
 >>>>>>>>>>> Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propres écrits, et participer activement à la vie de notre communauté littéraire. Nous sommes impatients de vous accueillir parmi nous !
 
@@ -34,7 +34,7 @@ title: Inscriptions
 
     <label>
         <input type="checkbox" name="terms" required>
-        J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/pages/charte.html" target="_blank">Charte</a>.
+        J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/charte.html" target="_blank">Charte</a>.
     </label>
 
     <button type="submit">S'inscrire</button>
