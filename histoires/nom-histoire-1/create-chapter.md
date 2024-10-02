@@ -48,4 +48,4 @@ title: Create chapter
   >>>>>>>>>>>>>>>>>><input type="submit" value="Soumettre">
 </form>
 
-###### NB : Ajoutez "NONE" si vous ne souhaitez pas remplir l'entièreté des 10 chapitres.
+>>>>>>>>>>>###### NB : Ajoutez "NONE" si vous ne souhaitez pas remplir l'entièreté des 10 chapitres.
