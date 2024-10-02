@@ -18,9 +18,9 @@ title: Accueil
 ---
 
 >>>>>>>> ## Navigation
->>>>>>>> - [Histoires](histoires.md)
->>>>>>>> - [Inscriptions](inscriptions.md)
->>>>>>>> - [FAQ](faq.md)
->>>>>>>> - [Charte](charte.md)
+>>>>>>>> - ❇︎ [Histoires](histoires.md)
+>>>>>>>> - ❇︎ [Inscriptions](inscriptions.md)
+>>>>>>>> - ❇︎ [FAQ](faq.md)
+>>>>>>>> - ❇︎ [Charte](charte.md)
 
 ---
