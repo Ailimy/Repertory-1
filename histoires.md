@@ -24,6 +24,6 @@ title: Histoires
 
 >>>>>>>>>>>>>>> ## Histoires disponibles
 
->>>>>>>>>>>>>>> [Titre de l'Histoire 1](nom-histoire-1)
+>>>>>>>>>>>>>>> [Titre de l'Histoire 1](nom-histoire-1.md)
   - Résumé rapide de l'histoire.
 
