@@ -71,11 +71,11 @@ title: Charte
 
 > ## 11. Évolution du site et de la charte
 
-> Le site est en constante évolution pour mieux répondre aux besoins de la communauté. La charte peut être modifiée ou mise à jour en fonction des nouveaux services, fonctionnalités, ou des évolutions juridiques. Nous nous engageons à informer les membres de toute modification majeure de cette charte, et nous invitons chaque utilisateur à la consulter régulièrement. En continuant à utiliser le site, vous acceptez les nouvelles versions de la charte.
+>>>>>>>>>>> Le site est en constante évolution pour mieux répondre aux besoins de la communauté. La charte peut être modifiée ou mise à jour en fonction des nouveaux services, fonctionnalités, ou des évolutions juridiques. Nous nous engageons à informer les membres de toute modification majeure de cette charte, et nous invitons chaque utilisateur à la consulter régulièrement. En continuant à utiliser le site, vous acceptez les nouvelles versions de la charte.
 
 ---
 
-> Merci de respecter ces règles pour contribuer à faire du Scriptorium un lieu agréable et inspirant pour tous les membres. Nous vous souhaitons une excellente expérience sur notre plateforme !
+>>>>>>>>>>> Merci de respecter ces règles pour contribuer à faire du Scriptorium un lieu agréable et inspirant pour tous les membres. Nous vous souhaitons une excellente expérience sur notre plateforme !
 
 ---
 
