@@ -4,7 +4,7 @@ title: Accueil
 ---
 
 >>>>>>>>>> # Le
->>>>>> # Scriptorium
+>>>>> # Scriptorium
 
 >>>>> ![Texte alternatif](assets/files/image2.jpg)
 
