@@ -21,7 +21,7 @@ Les 3 règles fondamentales | Ce qui veut dire...?
 >
 ***
 >
->>>>>> ## Mais également...
+>>>>>>> ## Mais également...
 >
 > ## 1. Respect et bienveillance
 
