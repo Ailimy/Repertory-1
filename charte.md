@@ -11,7 +11,7 @@ title: Charte
 >
 >Voici les règles principales à respecter pour publier des histoires sur Le Scriptorium :
 >
-First Header  | Second Header
+Les 3 règles fondamentales
 ------------- | -------------
 **Règle 1 : Originalité** | Les histoires doivent être originales et ne pas enfreindre les droits d'auteur.
 **Règle 2 : Respect des autres membres** | Aucune publication incitant à la haine ou à la violence ne sera tolérée.
