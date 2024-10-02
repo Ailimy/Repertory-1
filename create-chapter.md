@@ -3,7 +3,7 @@ layout: default
 title: Create chapter
 ---
 
->>>>>>># Ajoutez un nouveau chapitre à votre histoire :
+>>>>>># Ajoutez un nouveau chapitre à votre histoire :
 
 >>>>### Veuillez renseigner les informations-ci dessous afin que nous puissions mettre à jour votre histoire :
 >>>>##### ATTENTION : Il est important de renseigner le pseudo que vous avez utilisé lors de votre inscription et de la soumission de votre histoire afin de confirmer votre identité.
