@@ -9,7 +9,7 @@ title: Inscriptions
 
 ---
 
->>>>> ## Comment vous inscrire ?
+>>>>>> ## Comment vous inscrire ?
 
 >>>> 1. **Remplir le formulaire d'inscription** : Fournissez les informations demandées ci-dessous.
 >>>> 2. **Accepter les Conditions Générales d’Utilisation** : Avant de finaliser votre inscription, lisez et acceptez notre [charte](charte.md) et nos [Conditions Générales d’Utilisation](conditions-generales.md) pour garantir une expérience conforme à nos règles communautaires.
