@@ -13,7 +13,7 @@ title: FAQ
 ---
 
 > ## Comment puis-je m'inscrire ?
->>> - Pour vous inscrire, il vous suffit de cliquer sur [Inscriptions](inscriptions.md) trouvable sur la page d'accueil.
+>>> - Pour vous inscrire, il vous suffit de cliquer sur ["Inscriptions"](inscriptions.md) trouvable sur la page d'accueil.
 
 
 ---
