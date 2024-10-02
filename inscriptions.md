@@ -18,12 +18,11 @@ title: Inscriptions
 >>>>>>>>>>> 2. **Accepter les Conditions Générales d’Utilisation** : Avant de finaliser votre inscription, lisez et acceptez notre [Charte](charte.md) et nos [Conditions Générales d’Utilisation](conditions-generales.md) pour garantir une expérience conforme à nos règles communautaires.
 
 >>>>>>>>>>> Une fois inscrit, connectez-vous pour explorer les histoires, publier vos propres écrits, et participer activement à la vie de notre communauté littéraire. Nous sommes impatients de vous accueillir parmi nous !
->>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>
+
+
 ---
->>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>
->>>>>>>>>>> ## Formulaire d'inscription
+
+>>>>>>> ## Formulaire d'inscription
 
 >>>>>>>>>>><form action="https://formspree.io/f/xrbzwqev" method="post">
    <label for="username">Nom d'utilisateur :</label>
