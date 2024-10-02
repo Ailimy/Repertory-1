@@ -5,13 +5,13 @@ title: Titre de l'Histoire 1
 
 >>>>>>>>>>>>>># Titre de l'Histoire 1
 
->>>>>>>>>>>>>>>>>>## Synopsis
+>>>>>>>>>>>>>>>>>## Synopsis
 
-  >>>>>>>>>>>>>>>>Voici le synopsis de l'histoire. 
+  >>>>>>>>>>>>>>>Voici le synopsis de l'histoire. 
 
 ---
 
->>>>>>>>>>>>>>>>>>## Chapitres
+>>>>>>>>>>>>>>>>>## Chapitres
 
   >>>>>>>>>>>>>>>>>- [Chapitre 1](chapter-1.md)
   >>>>>>>>>>>>>>>>>- [Chapitre 2](chapter-2.md)
