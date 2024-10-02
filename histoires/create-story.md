@@ -5,10 +5,10 @@ title: Créer une Histoire
 
 # Créer une Nouvelle Histoire
 
-Remplissez le formulaire ci-dessous pour ajouter une nouvelle histoire à **Le Scriptorium**.
+>>>>>>>>>> Remplissez le formulaire ci-dessous pour ajouter une nouvelle histoire à **Le Scriptorium**.
 Si vous ne l'avez pas encore fait, [inscrivez-vous](inscriptions.md) d'abord.
 
-##### ATTENTION : Il est important de renseigner le pseudo que vous avez utilisé lors de votre inscription et de la soumission de votre histoire afin de confirmer votre identité.
+>>>>>>>>>> ##### ATTENTION : Il est important de renseigner le pseudo que vous avez utilisé lors de votre inscription et de la soumission de votre histoire afin de confirmer votre identité.
 
 <form action="https://formspree.io/f/mvgpjkyn" method="POST">
   <form action="https://formspree.io/f/mvgpjkyn" method="POST">
