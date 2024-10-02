@@ -75,7 +75,7 @@ title: Charte
 
 ---
 
->>>>>>>>>>> Merci de respecter ces règles pour contribuer à faire du Scriptorium un lieu agréable et inspirant pour tous les membres. Nous vous souhaitons une excellente expérience sur notre plateforme !
+>>>> Merci de respecter ces règles pour contribuer à faire du Scriptorium un lieu agréable et inspirant pour tous les membres. Nous vous souhaitons une excellente expérience sur notre plateforme !
 
 ---
 
