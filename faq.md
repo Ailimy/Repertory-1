@@ -48,7 +48,7 @@ Si vous publiez directement vos chapitres, ~~vous serez bannis~~ ils ne seront p
 
 >>> - ~~Elle ne le sera jamais~~ **Pas de panique !** Un long temps d'attente ne signifie pas forcément que votre histoire a été refusée. Nous faisons tout notre possible pour traiter les soumissions **le plus rapidement possible** et mettre à jour les publications au plus vite.
 
-> - Si vous souhaitez connaître l'état de votre soumission, n'hésitez pas à nous contacter par e-mail à : [lescriptorium@gmail.com](mailto:lescriptorium@gmail.com). Nous serons ravis de vous tenir informé !
+> - Si vous souhaitez connaître l'état de votre soumission, n'hésitez pas à nous contacter par `e-mail`  à : [lescriptorium@gmail.com](mailto:lescriptorium@gmail.com). Nous serons ravis de vous tenir informé !
 
 
 ---
