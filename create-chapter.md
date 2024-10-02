@@ -45,7 +45,6 @@ title: Create chapter
 >>>>>>>><label for="chapter-1">Chapitre 10 :</label><br>
 >>>>>>>><textarea id="chapter-1" name="chapter-1"></textarea><br><br>
 
->>>>>>>><input type="submit" value="Soumettre">
-  >>>></form>
+>>>>>>>><input type="submit" value="Soumettre"></form>
 
 >>>>###### NB : Ajoutez "NONE" si vous ne souhaitez pas remplir l'entièreté des 10 chapitres.
