@@ -3,7 +3,8 @@ layout: default
 title: FAQ
 ---
 
->>>>>> # FAQ - Foire Aux Questions
+>>>>>> # FAQ
+>>>>>> Foire Aux Questions
 
 > ##  **Qu'est-ce que Le Scriptorium ?**
 
