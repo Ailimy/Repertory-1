@@ -10,10 +10,10 @@
 
 ---
 
- >>>>>>>>>>>> ## Navigation
->>>>>>>>>>>> - [Histoires](histoires.md)
->>>>>>>>>>>> - [Inscriptions](inscriptions.md)
->>>>>>>>>>>> - [FAQ](faq.md)
->>>>>>>>>>>> - [Charte](charte.md)
+>>>>>>>>>>>>>>>>>>> ## Navigation
+>>>>>>>>>>>>>>>>>>> - [Histoires](histoires.md)
+>>>>>>>>>>>>>>>>>>> - [Inscriptions](inscriptions.md)
+>>>>>>>>>>>>>>>>>>> - [FAQ](faq.md)
+>>>>>>>>>>>>>>>>>>> - [Charte](charte.md)
 
 ---
