@@ -1,0 +1,139 @@
+/* Styles globaux */
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    background-color: #e9ecef; /* Couleur de fond douce */
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles pour l'en-tête */
+header {
+    background-color: #007bff; /* Couleur d'arrière-plan de l'en-tête */
+    color: #fff; /* Couleur du texte de l'en-tête */
+    padding: 20px;
+    text-align: center;
+}
+
+.header-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+/* Styles pour la navigation */
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #343a40; /* Couleur de fond de la barre de navigation */
+    padding: 10px 0;
+}
+
+.navbar a {
+    color: #fff; /* Couleur du texte des liens */
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #ffc107; /* Couleur survolée pour les liens */
+}
+
+/* Styles pour le contenu principal */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff; /* Couleur de fond du contenu principal */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère autour du contenu */
+}
+
+h2 {
+    color: #007bff; /* Couleur du texte des sous-titres */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #343a40; /* Couleur de fond du pied de page */
+    color: #fff; /* Couleur du texte du pied de page */
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Styles pour les formulaires */
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+label input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Styles pour les liens */
+a {
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styles pour le moteur de recherche */
+#search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#results div {
+    background: #fff;
+    border: 1
