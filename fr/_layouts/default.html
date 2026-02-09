@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/fr/assets/css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -12,12 +12,12 @@
 <body>
     <header>
         <div class="navbar">
-            <a href="index.html">Accueil</a>
-            <a href="histoires.html">Histoires</a>
-            <a href="faq.html">FAQ</a>
-            <a href="charte.html">Charte</a>
-            <a href="inscriptions.html">Inscriptions</a>
-            <a href="aide.html">Aide</a>
+     <a href="{{ site.baseurl }}/fr/">Accueil</a>
+    <a href="{{ site.baseurl }}/fr/histoires">Histoires</a>
+    <a href="{{ site.baseurl }}/fr/faq">FAQ</a>
+    <a href="{{ site.baseurl }}/fr/charte">Charte</a>
+    <a href="{{ site.baseurl }}/fr/inscriptions">Inscriptions</a>
+    <a href="{{ site.baseurl }}/fr/aide">Aide</a>
        </div>
     </header>
     <main>
