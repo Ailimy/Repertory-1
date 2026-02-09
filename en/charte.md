@@ -12,7 +12,12 @@ layout: default title: Charter
 >
 >
 >
-The 3 fundamental rules | What does it mean...? ------------- ------------- **Rule 1 : Originality** | Stories must be original and not infringe copyright. **Rule 2: Respect for other members** | No publication inciting hatred or violence will be tolerated. **Rule 3: Moderation** | The moderation team reserves the right to delete any non-compliant publication.
+The 3 fundamental rules 
+
+------------- | -------------
+**Rule 1: Originality |** | Stories must be original and must not infringe copyright.
+**Rule 2: Respect for other members** | Any post inciting hatred or violence will not be tolerated.
+**Rule 3: Moderation** |The moderation team reserves the right to remove any non-compliant post.
 >
 ***
 >
