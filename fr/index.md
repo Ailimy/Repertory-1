@@ -6,7 +6,7 @@ title: Accueil
 >>>>>>>> # Le 
 >>>>> # Scriptorium
 
->>>> ![Texte alternatif](assets/files/../image2.jpg)
+>>>> ![Texte alternatif](assets/files/image2.jpg)
 
 
 >>>>>>>> ## Bienvenue
