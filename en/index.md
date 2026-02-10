@@ -5,7 +5,7 @@ layout: default title: Home
 >>>>>>>> # Visit 
 >>>>> # Scriptorium
 
->>>> ![Alternative text](../assets/files/image2.jpg)
+>>>> ![Alternative text](../en/assets/files/image2.jpg)
 
 
 >>>>>>>> ## Welcome
