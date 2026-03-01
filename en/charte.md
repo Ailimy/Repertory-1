@@ -14,7 +14,7 @@ layout: default title: Charter
 >
 The 3 fundamuntal rules | What does it mean...? 
 ------------- | -------------
-**Rule 1: Originality |** | Stories must be original and must not infringe copyright.
+**Rule 1: Originality** | Stories must be original and must not infringe copyright.
 **Rule 2: Respect for other members** | Any post inciting hatred or violence will not be tolerated.
 **Rule 3: Moderation** |The moderation team reserves the right to remove any non-compliant post.
 >
