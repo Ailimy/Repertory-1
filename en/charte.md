@@ -12,8 +12,7 @@ layout: default title: Charter
 >
 >
 >
-The 3 fundamental rules 
-
+The 3 fundamuntal rules | What does it mean...? 
 ------------- | -------------
 **Rule 1: Originality |** | Stories must be original and must not infringe copyright.
 **Rule 2: Respect for other members** | Any post inciting hatred or violence will not be tolerated.
@@ -23,7 +22,7 @@ The 3 fundamental rules
 >
 >>>>>>> ## But also...
 >
-> ## 1\. Respect and kindness
+> ## 1. Respect and kindness
 
 >>>> Our community is based on mutual support and respect. Each member, author or reader, must respect other users, their opinions and their creations. Constructive criticism is encouraged, but personal attacks, insults, defamatory remarks or any harmful behavior will not be tolerated. Any content or comment deemed disrespectful may be deleted, and sanctions may be taken against the user concerned.
 
