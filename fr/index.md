@@ -2,6 +2,7 @@
 layout: default
 title: Accueil
 ---
+[English](index-en.html)
 
 >>>>>>>> # Le 
 >>>>> # Scriptorium
