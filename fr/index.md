@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 ---
-[English](/en/index.md)
+[English]({{ site.baseurl }}/en/)
 
 >>>>>>>> # Le 
 >>>>> # Scriptorium
