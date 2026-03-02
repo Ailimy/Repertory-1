@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 ---
-[English](index-en.html)
+<a href="index-en.html" class="lang-button">English</a>
 
 >>>>>>>> # Le 
 >>>>> # Scriptorium
