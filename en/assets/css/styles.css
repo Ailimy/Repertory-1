@@ -137,3 +137,17 @@ a:hover {
 #results div {
     background: #fff;
     border: 1
+
+    .lang-switch {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.lang-btn {
+    padding: 6px 12px;
+    background: #ffc107;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 5px;
+}
