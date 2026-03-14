@@ -137,3 +137,20 @@ a:hover {
 #results div {
     background: #fff;
     border: 1
+
+    .lang-btn {
+    display: inline-block;
+    padding: 8px 14px;
+    background-color: #ffc107;
+    color: #000;
+    font-weight: bold;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.lang-btn:hover {
+    background-color: #e0a800;
+    color: #000;
+}
