@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 ---
-[English]({{ site.baseurl }}/en/)
+<a href="{{ site.baseurl }}/en/" class="lang-btn">English</a>
 
 >>>>>>>> # Le 
 >>>>> # Scriptorium
