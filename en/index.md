@@ -1,6 +1,7 @@
 ---
 layout: default title: Home
 ---
+<a href="{{ site.baseurl }}/fr/" class="lang-btn">Français</a>
 
 >>>>>>>> # Visit 
 >>>>> # Scriptorium
