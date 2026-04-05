@@ -32,7 +32,7 @@ title: Inscriptions
 
     <label>
         <input type="checkbox" name="terms" required>
-        J'accepte les <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/charte.html" target="_blank">Charte</a>.
+        J'accepte les <a href="https://ailimy.github.io/Repertory-1/fr/conditions-generales.html" target="_blank">Conditions Générales d’Utilisation</a> et la <a href="https://ailimy.github.io/Repertory-1/fr/charte.html" target="_blank">Charte</a>.
     </label>
 
     <button type="submit">S'inscrire</button>
