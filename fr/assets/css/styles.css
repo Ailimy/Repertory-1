@@ -136,21 +136,20 @@ a:hover {
 
 #results div {
     background: #fff;
-    border: 1
+    border: 1px solid #ddd;
+}
+
+.lang-switch {
+    text-align: right;
+    margin-bottom: 20px;
+}
 
 .lang-btn {
-    display: inline-block;
-    padding: 8px 14px;
-    background-color: #ffc107;
-    color: #000;
-    font-weight: bold;
-    border-radius: 6px;
+    padding: 6px 12px;
+    background: #ffc107;
+    color: black;
+    border-radius: 5px;
     text-decoration: none;
-    margin-bottom: 20px;
-    transition: 0.3s;
+    margin-left: 5px;
 }
 
-.lang-btn:hover {
-    background-color: #e0a800;
-    color: #000;
-}
