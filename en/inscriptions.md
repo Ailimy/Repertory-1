@@ -22,7 +22,7 @@ layout: default title: Registrations
 >>>>>> ## Registration form
 
 <form action="https://formspree.io/f/xrbzwqev" method="post">
-   <label for="username">User name: </label> <input type="text" id="username" name="username" required> <label for="email">E-mail address:</label> <input type="email" id="email" name="email" required> <label> <input type="checkbox" name="terms" required> I accept the <a href="https://ailimy.github.io/Repertory-1/conditions-generales.html" target="_blank">Terms of Use</a> and the <a href="https://ailimy.github.io/Repertory-1/charte.html" target="_blank">Charter</a>. </label> <button type="submit">Sign up</button>
+   <label for="username">User name: </label> <input type="text" id="username" name="username" required> <label for="email">E-mail address:</label> <input type="email" id="email" name="email" required> <label> <input type="checkbox" name="terms" required> I accept the <a href="https://ailimy.github.io/Repertory-1/en/conditions-generales-fr-en-T-C.html" target="_blank">Terms of Use</a> and the <a href="https://ailimy.github.io/Repertory-1/en/charte.html" target="_blank">Charter</a>. </label> <button type="submit">Sign up</button>
 </form>
 
 ---
