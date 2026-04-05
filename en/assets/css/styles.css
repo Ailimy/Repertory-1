@@ -136,7 +136,8 @@ a:hover {
 
 #results div {
     background: #fff;
-    border: 1
+    border: 1px solid #ddd;
+}
 
 .lang-switch {
     text-align: right;
